@@ -1,0 +1,22 @@
+{
+  "name": "demonode",
+  "version": "1.0.0",
+  "description": "demo node para probar algoritmos con tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliaMarzec/nodetdd.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "nataliaMarzec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nataliaMarzec/nodetdd/issues"
+  },
+  "homepage": "https://github.com/nataliaMarzec/nodetdd#readme"
+}
